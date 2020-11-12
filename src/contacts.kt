@@ -4,6 +4,4 @@ class employeeContacts(var fullName: String, //All that are needed is their name
     fun printInfo(){ //function to print the info neatly
         println(fullName + "\nEmployee Number: " + empNumber + "\nEmployee Shift: "+ empShift + "\n")
     }
-
-
 }
